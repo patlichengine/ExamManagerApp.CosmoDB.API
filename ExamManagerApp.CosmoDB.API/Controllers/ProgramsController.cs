@@ -9,17 +9,17 @@ namespace ExamManagerApp.CosmoDB.API.Controllers
     [ApiController]
     public class ProgramsController : ControllerBase
     {
-        private readonly IProgramRepository _programRepository;
+        private readonly IProgramRepository _programService;
 
-        public ProgramsController(IProgramRepository programRepository)
+        public ProgramsController(IProgramRepository programService)
         {
-            _programRepository = programRepository;
+            _programService = programService ?? throw new ArgumentNullException(nameof(programService));
         }
 
         [HttpGet("{programId}")]
         public async Task<ActionResult<ProgramDocument>> GetProgram(string programId)
         {
-            var Program = await _programRepository.GetProgramByIdAsync(programId);
+            var Program = await _programService.GetProgramByIdAsync(programId);
             if (Program == null)
             {
                 return NotFound();
@@ -33,33 +33,33 @@ namespace ExamManagerApp.CosmoDB.API.Controllers
         {
             // Set any additional properties if required
 
-            var createdProgram = await _programRepository.CreateProgramAsync(program);
+            var createdProgram = await _programService.CreateProgramAsync(program);
             return CreatedAtAction(nameof(GetProgram), new { programId = createdProgram.Id }, createdProgram);
         }
 
         [HttpPut("{programId}")]
         public async Task<ActionResult<ProgramDocument>> UpdateProgram(string programId, ProgramDocument program)
         {
-            var existingProgram = await _programRepository.GetProgramByIdAsync(programId);
+            var existingProgram = await _programService.GetProgramByIdAsync(programId);
             if (existingProgram == null)
             {
                 return NotFound();
             }
 
 
-            var updatedProgram = await _programRepository.UpdateProgramAsync(program);
+            var updatedProgram = await _programService.UpdateProgramAsync(program);
             return Ok(updatedProgram);
         }
         [HttpDelete("{programId}")]
         public async Task<IActionResult> DeleteProgram(string programId)
         {
-            var existingProgram = await _programRepository.GetProgramByIdAsync(programId);
+            var existingProgram = await _programService.GetProgramByIdAsync(programId);
             if (existingProgram == null)
             {
                 return NotFound();
             }
 
-            await _programRepository.DeleteProgramAsync(programId);
+            await _programService.DeleteProgramAsync(programId);
             return NoContent();
         }
 

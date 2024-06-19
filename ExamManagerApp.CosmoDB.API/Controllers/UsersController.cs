@@ -9,17 +9,17 @@ namespace ExamManagerApp.CosmoDB.API.Controllers
     [ApiController]
     public class UsersController : ControllerBase
     {
-        private readonly IUserRepository _userRepository;
+        private readonly IUserRepository _userService;
 
-        public UsersController(IUserRepository userRepository)
+        public UsersController(IUserRepository userService)
         {
-            _userRepository = userRepository;
+            _userService = userService ?? throw new ArgumentNullException(nameof(userService));
         }
 
         [HttpGet("{userId}")]
         public async Task<ActionResult<UserDocument>> GetUser(string userId)
         {
-            var user = await _userRepository.GetUserByIdAsync(userId);
+            var user = await _userService.GetUserByIdAsync(userId);
             if (user == null)
             {
                 return NotFound();
@@ -33,32 +33,32 @@ namespace ExamManagerApp.CosmoDB.API.Controllers
         {
             // Set any additional properties if required
 
-            var createdUser = await _userRepository.CreateUserAsync(user);
+            var createdUser = await _userService.CreateUserAsync(user);
             return CreatedAtAction(nameof(GetUser), new { userId = createdUser.Id }, createdUser);
         }
 
         [HttpPut("{userId}")]
         public async Task<ActionResult<UserDocument>> UpdateUser(string userId, UserDocument user)
         {
-            var existingUser = await _userRepository.GetUserByIdAsync(userId);
+            var existingUser = await _userService.GetUserByIdAsync(userId);
             if (existingUser == null)
             {
                 return NotFound();
             }
 
-            var updatedUser = await _userRepository.UpdateUserAsync(user);
+            var updatedUser = await _userService.UpdateUserAsync(user);
             return Ok(updatedUser);
         }
         [HttpDelete("{userId}")]
         public async Task<IActionResult> DeleteUser(string userId)
         {
-            var existingUser = await _userRepository.GetUserByIdAsync(userId);
+            var existingUser = await _userService.GetUserByIdAsync(userId);
             if (existingUser == null)
             {
                 return NotFound();
             }
 
-            await _userRepository.DeleteUserAsync(userId);
+            await _userService.DeleteUserAsync(userId);
             return NoContent();
         }
 

@@ -64,11 +64,11 @@ namespace ExamManagerApp.CosmoDB.API.Controllers
             return Ok(questions);
         }
 
-        [HttpGet("search/{questionType}")]
-        public async Task<ActionResult<IEnumerable<QuestionDocument>>> GetQuestionsByType(string questionType)
+        [HttpGet("type/{questionTypeId}")]
+        public async Task<ActionResult<IEnumerable<QuestionDocument>>> GetQuestionsByType(string questionTypeId)
         {
             // get all the questions in the database
-            var questions = await questionService.GetByTypeAsync(questionType);
+            var questions = await questionService.GetByTypeAsync(questionTypeId);
             if (questions == null)
             {
                 return NotFound();
@@ -94,7 +94,7 @@ namespace ExamManagerApp.CosmoDB.API.Controllers
             }
 
             // update the current question
-            var updated = await questionService.UpdateAsync(question, existingQuestion.QuestionType);
+            var updated = await questionService.UpdateAsync(question, existingQuestion.Id);
             return Ok(updated);
         }
 
@@ -114,7 +114,7 @@ namespace ExamManagerApp.CosmoDB.API.Controllers
             }
 
             // delete the current question
-            await questionService.DeleteAsync(questionId, existingQuestion.QuestionType);
+            await questionService.DeleteAsync(questionId);
             return NoContent();
         }
     }

@@ -44,6 +44,16 @@ builder.Services.AddScoped<IQuestionRepository, QuestionRepository>(provider =>
 builder.Services.AddScoped<ICandidateRepository, CandidateRepository>(provider =>
     new CandidateRepository(connectionString, primaryKey, databaseName));
 
+builder.Services.AddScoped<IProgramRepository, ProgramRepository>(provider =>
+    new ProgramRepository(connectionString, primaryKey, databaseName));
+
+builder.Services.AddScoped<IUserRepository, UserRepository>(provider =>
+    new UserRepository(connectionString, primaryKey, databaseName));
+
+builder.Services.AddScoped<IQuestionTypeRepository, QuestionTypeRepository>(provider =>
+    new QuestionTypeRepository(connectionString, primaryKey, databaseName));
+
+
 
 var app = builder.Build();
 
@@ -51,7 +61,14 @@ var app = builder.Build();
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
-    app.UseSwaggerUI();
+    app.UseSwaggerUI(options =>
+    {
+        options.DefaultModelsExpandDepth(-1); // Disable swagger schemas at bottom
+        options.SwaggerEndpoint("./v1/swagger.json", "Programs, Candidates, Questions Manager"); //swagger
+                                                                              
+                                                                              
+    });
+    //app.UseSwaggerUI();
 }
 
 

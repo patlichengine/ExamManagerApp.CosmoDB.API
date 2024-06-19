@@ -7,31 +7,22 @@ namespace ExamManagerApp.CosmoDB.API.Mappers
     {
         public static QuestionDocument ToQuestionDocument(this QuestionCreateDto model)
         {
+            string newId = Guid.NewGuid().ToString();
             return new QuestionDocument
             {
-                Id = Guid.NewGuid().ToString(),
-                Paragraph = model.Paragraph,
-                QuestionType = getQuestionType(model.YesNo, model.Dropdown, model.MultipleChoice),
-                YesNo = model.YesNo,
-                Dropdown = model.Dropdown,
-                MultipleChoice = model.MultipleChoice,
-                Date = model.Date.Date,
-                Number = model.Number
+                Id = newId,
+                QuestionId = newId,
+                QuestionType = model.QuestionType
             };
         }
 
-        public static QuestionDocument ToQuestionDocument(this QuestionUpdateDto model, string questionType)
+        public static QuestionDocument ToQuestionDocument(this QuestionUpdateDto model, string questionId)
         {
             return new QuestionDocument
             {
                 Id = model.Id,
-                Paragraph = model.Paragraph,
-                QuestionType = questionType,
-                YesNo = model.YesNo,
-                Dropdown = model.Dropdown,
-                MultipleChoice = model.MultipleChoice,
-                Date = model.Date.Date,
-                Number = model.Number
+                QuestionId = questionId,
+                QuestionType = model.QuestionType
             };
         }
         

@@ -30,9 +30,9 @@ namespace ExamManagerApp.CosmoDB.API.Services
             return response.Resource;
         }
 
-        public async Task DeleteAsync(string questionId, string questionType)
+        public async Task DeleteAsync(string questionId)
         {
-            await _questionContainer.DeleteItemAsync<QuestionDocument>(questionId, new PartitionKey(questionType));
+            await _questionContainer.DeleteItemAsync<QuestionDocument>(questionId, new PartitionKey(questionId));
             
         }
 
@@ -77,10 +77,10 @@ namespace ExamManagerApp.CosmoDB.API.Services
             return questions;
         }
 
-        public async Task<IEnumerable<QuestionDocument>> GetByTypeAsync(string questionType)
+        public async Task<IEnumerable<QuestionDocument>> GetByTypeAsync(string questionTypeId)
         {
-            var query = _questionContainer.GetItemLinqQueryable<QuestionDocument>()
-                .Where(s => s.QuestionType == questionType)
+            var query = _questionContainer.GetItemLinqQueryable<QuestionDocument>(true)
+                .Where(_w => _w.QuestionType.Any(c => c.Id == questionTypeId))
                 .ToFeedIterator();
 
             var questions = new List<QuestionDocument>();
@@ -94,11 +94,11 @@ namespace ExamManagerApp.CosmoDB.API.Services
             return questions;
         }
 
-        public async Task<QuestionDocument> UpdateAsync(QuestionUpdateDto question, string questionType)
+        public async Task<QuestionDocument> UpdateAsync(QuestionUpdateDto question, string questionId)
         {
             // create an object of the question document using the update dto
-            var updatePayload = question.ToQuestionDocument(questionType);
-            var response = await _questionContainer.ReplaceItemAsync(updatePayload, updatePayload.Id);
+            var updatePayload = question.ToQuestionDocument(questionId);
+            var response = await _questionContainer.ReplaceItemAsync(updatePayload, updatePayload.QuestionId);
             return response.Resource;
         }
     }

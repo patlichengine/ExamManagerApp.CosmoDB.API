@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExamManagerApp.CosmoDB.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+583453545f0802f3104f6fa1da47dccc0bf5ae18")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExamManagerApp.CosmoDB.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExamManagerApp.CosmoDB.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

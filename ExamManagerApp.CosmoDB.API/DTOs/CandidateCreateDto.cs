@@ -1,4 +1,5 @@
-﻿using Newtonsoft.Json;
+﻿using ExamManagerApp.CosmoDB.API.Models;
+using Newtonsoft.Json;
 
 namespace ExamManagerApp.CosmoDB.API.DTOs
 {
@@ -26,6 +27,9 @@ namespace ExamManagerApp.CosmoDB.API.DTOs
 
         [JsonProperty(PropertyName = "dateofBirth")]
         public DateTime DateOfBirth { get; set; } = DateTime.Now;
+
+        [JsonProperty(PropertyName = "question")]
+        public List<QuestionType> Question { get; set; }
 
     }
 }

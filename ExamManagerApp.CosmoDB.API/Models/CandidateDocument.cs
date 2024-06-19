@@ -34,8 +34,8 @@ namespace ExamManagerApp.CosmoDB.API.Models
         public DateTime DateOfBirth { get; set; } = DateTime.Now;
         [JsonProperty(PropertyName = "category")]
         public string Category { get; set; }
-
-        //Add a question collection later
+        [JsonProperty(PropertyName = "question")]
+        public List<QuestionType>? Question { get; set; }
 
     }
 

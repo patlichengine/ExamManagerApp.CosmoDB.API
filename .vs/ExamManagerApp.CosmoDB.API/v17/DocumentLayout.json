@@ -3,34 +3,6 @@
   "WorkspaceRootPath": "C:\\WebProjects\\TaskProject\\ExamManagerApp.CosmoDB.API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2E942E81-34E1-465B-93D3-59CAB4AC392E}|ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API.csproj|c:\\webprojects\\taskproject\\exammanagerapp.cosmodb.api\\exammanagerapp.cosmodb.api\\services\\candidaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E942E81-34E1-465B-93D3-59CAB4AC392E}|ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API.csproj|solutionrelative:exammanagerapp.cosmodb.api\\services\\candidaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2E942E81-34E1-465B-93D3-59CAB4AC392E}|ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API.csproj|c:\\webprojects\\taskproject\\exammanagerapp.cosmodb.api\\exammanagerapp.cosmodb.api\\models\\candidatedocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E942E81-34E1-465B-93D3-59CAB4AC392E}|ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API.csproj|solutionrelative:exammanagerapp.cosmodb.api\\models\\candidatedocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2E942E81-34E1-465B-93D3-59CAB4AC392E}|ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API.csproj|c:\\webprojects\\taskproject\\exammanagerapp.cosmodb.api\\exammanagerapp.cosmodb.api\\mappers\\candidatemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E942E81-34E1-465B-93D3-59CAB4AC392E}|ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API.csproj|solutionrelative:exammanagerapp.cosmodb.api\\mappers\\candidatemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2E942E81-34E1-465B-93D3-59CAB4AC392E}|ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API.csproj|c:\\webprojects\\taskproject\\exammanagerapp.cosmodb.api\\exammanagerapp.cosmodb.api\\dtos\\candidatecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E942E81-34E1-465B-93D3-59CAB4AC392E}|ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API.csproj|solutionrelative:exammanagerapp.cosmodb.api\\dtos\\candidatecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2E942E81-34E1-465B-93D3-59CAB4AC392E}|ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API.csproj|c:\\webprojects\\taskproject\\exammanagerapp.cosmodb.api\\exammanagerapp.cosmodb.api\\services\\iquestionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E942E81-34E1-465B-93D3-59CAB4AC392E}|ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API.csproj|solutionrelative:exammanagerapp.cosmodb.api\\services\\iquestionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2E942E81-34E1-465B-93D3-59CAB4AC392E}|ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API.csproj|c:\\webprojects\\taskproject\\exammanagerapp.cosmodb.api\\exammanagerapp.cosmodb.api\\services\\icandidaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E942E81-34E1-465B-93D3-59CAB4AC392E}|ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API.csproj|solutionrelative:exammanagerapp.cosmodb.api\\services\\icandidaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2E942E81-34E1-465B-93D3-59CAB4AC392E}|ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API.csproj|c:\\webprojects\\taskproject\\exammanagerapp.cosmodb.api\\exammanagerapp.cosmodb.api\\controllers\\candidatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E942E81-34E1-465B-93D3-59CAB4AC392E}|ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API.csproj|solutionrelative:exammanagerapp.cosmodb.api\\controllers\\candidatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2E942E81-34E1-465B-93D3-59CAB4AC392E}|ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API.csproj|c:\\webprojects\\taskproject\\exammanagerapp.cosmodb.api\\exammanagerapp.cosmodb.api\\controllers\\questionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2E942E81-34E1-465B-93D3-59CAB4AC392E}|ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API.csproj|solutionrelative:exammanagerapp.cosmodb.api\\controllers\\questionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -39,20 +11,92 @@
       "RelativeMoniker": "D:0:0:{2E942E81-34E1-465B-93D3-59CAB4AC392E}|ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API.csproj|solutionrelative:exammanagerapp.cosmodb.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2E942E81-34E1-465B-93D3-59CAB4AC392E}|ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API.csproj|c:\\webprojects\\taskproject\\exammanagerapp.cosmodb.api\\exammanagerapp.cosmodb.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E942E81-34E1-465B-93D3-59CAB4AC392E}|ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API.csproj|solutionrelative:exammanagerapp.cosmodb.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2E942E81-34E1-465B-93D3-59CAB4AC392E}|ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API.csproj|c:\\webprojects\\taskproject\\exammanagerapp.cosmodb.api\\exammanagerapp.cosmodb.api\\controllers\\questiontypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E942E81-34E1-465B-93D3-59CAB4AC392E}|ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API.csproj|solutionrelative:exammanagerapp.cosmodb.api\\controllers\\questiontypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2E942E81-34E1-465B-93D3-59CAB4AC392E}|ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API.csproj|c:\\webprojects\\taskproject\\exammanagerapp.cosmodb.api\\exammanagerapp.cosmodb.api\\services\\questionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E942E81-34E1-465B-93D3-59CAB4AC392E}|ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API.csproj|solutionrelative:exammanagerapp.cosmodb.api\\services\\questionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2E942E81-34E1-465B-93D3-59CAB4AC392E}|ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API.csproj|c:\\webprojects\\taskproject\\exammanagerapp.cosmodb.api\\exammanagerapp.cosmodb.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E942E81-34E1-465B-93D3-59CAB4AC392E}|ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API.csproj|solutionrelative:exammanagerapp.cosmodb.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E942E81-34E1-465B-93D3-59CAB4AC392E}|ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API.csproj|c:\\webprojects\\taskproject\\exammanagerapp.cosmodb.api\\exammanagerapp.cosmodb.api\\controllers\\programscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E942E81-34E1-465B-93D3-59CAB4AC392E}|ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API.csproj|solutionrelative:exammanagerapp.cosmodb.api\\controllers\\programscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E942E81-34E1-465B-93D3-59CAB4AC392E}|ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API.csproj|c:\\webprojects\\taskproject\\exammanagerapp.cosmodb.api\\exammanagerapp.cosmodb.api\\services\\iquestiontyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E942E81-34E1-465B-93D3-59CAB4AC392E}|ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API.csproj|solutionrelative:exammanagerapp.cosmodb.api\\services\\iquestiontyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E942E81-34E1-465B-93D3-59CAB4AC392E}|ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API.csproj|c:\\webprojects\\taskproject\\exammanagerapp.cosmodb.api\\exammanagerapp.cosmodb.api\\services\\questiontyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E942E81-34E1-465B-93D3-59CAB4AC392E}|ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API.csproj|solutionrelative:exammanagerapp.cosmodb.api\\services\\questiontyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E942E81-34E1-465B-93D3-59CAB4AC392E}|ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API.csproj|c:\\webprojects\\taskproject\\exammanagerapp.cosmodb.api\\exammanagerapp.cosmodb.api\\services\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E942E81-34E1-465B-93D3-59CAB4AC392E}|ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API.csproj|solutionrelative:exammanagerapp.cosmodb.api\\services\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E942E81-34E1-465B-93D3-59CAB4AC392E}|ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API.csproj|c:\\webprojects\\taskproject\\exammanagerapp.cosmodb.api\\exammanagerapp.cosmodb.api\\services\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E942E81-34E1-465B-93D3-59CAB4AC392E}|ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API.csproj|solutionrelative:exammanagerapp.cosmodb.api\\services\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2E942E81-34E1-465B-93D3-59CAB4AC392E}|ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API.csproj|c:\\webprojects\\taskproject\\exammanagerapp.cosmodb.api\\exammanagerapp.cosmodb.api\\models\\questiondocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2E942E81-34E1-465B-93D3-59CAB4AC392E}|ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API.csproj|solutionrelative:exammanagerapp.cosmodb.api\\models\\questiondocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\WebProjects\\TaskProject\\ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ExamManagerApp.CosmoDB.API\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{2E942E81-34E1-465B-93D3-59CAB4AC392E}|ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API.csproj|c:\\webprojects\\taskproject\\exammanagerapp.cosmodb.api\\exammanagerapp.cosmodb.api\\services\\questionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E942E81-34E1-465B-93D3-59CAB4AC392E}|ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API.csproj|solutionrelative:exammanagerapp.cosmodb.api\\services\\questionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E942E81-34E1-465B-93D3-59CAB4AC392E}|ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API.csproj|c:\\webprojects\\taskproject\\exammanagerapp.cosmodb.api\\exammanagerapp.cosmodb.api\\controllers\\candidatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E942E81-34E1-465B-93D3-59CAB4AC392E}|ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API.csproj|solutionrelative:exammanagerapp.cosmodb.api\\controllers\\candidatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E942E81-34E1-465B-93D3-59CAB4AC392E}|ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API.csproj|c:\\webprojects\\taskproject\\exammanagerapp.cosmodb.api\\exammanagerapp.cosmodb.api\\services\\programrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E942E81-34E1-465B-93D3-59CAB4AC392E}|ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API.csproj|solutionrelative:exammanagerapp.cosmodb.api\\services\\programrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E942E81-34E1-465B-93D3-59CAB4AC392E}|ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API.csproj|c:\\webprojects\\taskproject\\exammanagerapp.cosmodb.api\\exammanagerapp.cosmodb.api\\services\\iprogramrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E942E81-34E1-465B-93D3-59CAB4AC392E}|ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API.csproj|solutionrelative:exammanagerapp.cosmodb.api\\services\\iprogramrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E942E81-34E1-465B-93D3-59CAB4AC392E}|ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API.csproj|c:\\webprojects\\taskproject\\exammanagerapp.cosmodb.api\\exammanagerapp.cosmodb.api\\models\\userdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E942E81-34E1-465B-93D3-59CAB4AC392E}|ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API.csproj|solutionrelative:exammanagerapp.cosmodb.api\\models\\userdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E942E81-34E1-465B-93D3-59CAB4AC392E}|ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API.csproj|c:\\webprojects\\taskproject\\exammanagerapp.cosmodb.api\\exammanagerapp.cosmodb.api\\models\\candidatedocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E942E81-34E1-465B-93D3-59CAB4AC392E}|ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API.csproj|solutionrelative:exammanagerapp.cosmodb.api\\models\\candidatedocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E942E81-34E1-465B-93D3-59CAB4AC392E}|ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API.csproj|c:\\webprojects\\taskproject\\exammanagerapp.cosmodb.api\\exammanagerapp.cosmodb.api\\mappers\\questionmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E942E81-34E1-465B-93D3-59CAB4AC392E}|ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API.csproj|solutionrelative:exammanagerapp.cosmodb.api\\mappers\\questionmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E942E81-34E1-465B-93D3-59CAB4AC392E}|ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API.csproj|c:\\webprojects\\taskproject\\exammanagerapp.cosmodb.api\\exammanagerapp.cosmodb.api\\dtos\\questioncreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E942E81-34E1-465B-93D3-59CAB4AC392E}|ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API.csproj|solutionrelative:exammanagerapp.cosmodb.api\\dtos\\questioncreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E942E81-34E1-465B-93D3-59CAB4AC392E}|ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API.csproj|c:\\webprojects\\taskproject\\exammanagerapp.cosmodb.api\\exammanagerapp.cosmodb.api\\dtos\\candidatecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E942E81-34E1-465B-93D3-59CAB4AC392E}|ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API.csproj|solutionrelative:exammanagerapp.cosmodb.api\\dtos\\candidatecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E942E81-34E1-465B-93D3-59CAB4AC392E}|ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API.csproj|c:\\webprojects\\taskproject\\exammanagerapp.cosmodb.api\\exammanagerapp.cosmodb.api\\mappers\\candidatemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E942E81-34E1-465B-93D3-59CAB4AC392E}|ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API.csproj|solutionrelative:exammanagerapp.cosmodb.api\\mappers\\candidatemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E942E81-34E1-465B-93D3-59CAB4AC392E}|ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API.csproj|c:\\webprojects\\taskproject\\exammanagerapp.cosmodb.api\\exammanagerapp.cosmodb.api\\services\\candidaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E942E81-34E1-465B-93D3-59CAB4AC392E}|ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API.csproj|solutionrelative:exammanagerapp.cosmodb.api\\services\\candidaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E942E81-34E1-465B-93D3-59CAB4AC392E}|ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API.csproj|c:\\webprojects\\taskproject\\exammanagerapp.cosmodb.api\\exammanagerapp.cosmodb.api\\services\\icandidaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E942E81-34E1-465B-93D3-59CAB4AC392E}|ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API.csproj|solutionrelative:exammanagerapp.cosmodb.api\\services\\icandidaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E942E81-34E1-465B-93D3-59CAB4AC392E}|ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API.csproj|c:\\webprojects\\taskproject\\exammanagerapp.cosmodb.api\\exammanagerapp.cosmodb.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E942E81-34E1-465B-93D3-59CAB4AC392E}|ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API.csproj|solutionrelative:exammanagerapp.cosmodb.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E942E81-34E1-465B-93D3-59CAB4AC392E}|ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API.csproj|c:\\webprojects\\taskproject\\exammanagerapp.cosmodb.api\\exammanagerapp.cosmodb.api\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2E942E81-34E1-465B-93D3-59CAB4AC392E}|ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API.csproj|solutionrelative:exammanagerapp.cosmodb.api\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,89 +106,258 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CandidateDocument.cs",
-              "DocumentMoniker": "C:\\WebProjects\\TaskProject\\ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API\\Models\\CandidateDocument.cs",
-              "RelativeDocumentMoniker": "ExamManagerApp.CosmoDB.API\\Models\\CandidateDocument.cs",
-              "ToolTip": "C:\\WebProjects\\TaskProject\\ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API\\Models\\CandidateDocument.cs",
-              "RelativeToolTip": "ExamManagerApp.CosmoDB.API\\Models\\CandidateDocument.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAUwB4AAAA8AAAA",
+              "DocumentIndex": 6,
+              "Title": "QuestionTypeRepository.cs",
+              "DocumentMoniker": "C:\\WebProjects\\TaskProject\\ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API\\Services\\QuestionTypeRepository.cs",
+              "RelativeDocumentMoniker": "ExamManagerApp.CosmoDB.API\\Services\\QuestionTypeRepository.cs",
+              "ToolTip": "C:\\WebProjects\\TaskProject\\ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API\\Services\\QuestionTypeRepository.cs",
+              "RelativeToolTip": "ExamManagerApp.CosmoDB.API\\Services\\QuestionTypeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T03:38:10.241Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IQuestionRepository.cs",
-              "DocumentMoniker": "C:\\WebProjects\\TaskProject\\ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API\\Services\\IQuestionRepository.cs",
-              "RelativeDocumentMoniker": "ExamManagerApp.CosmoDB.API\\Services\\IQuestionRepository.cs",
-              "ToolTip": "C:\\WebProjects\\TaskProject\\ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API\\Services\\IQuestionRepository.cs",
-              "RelativeToolTip": "ExamManagerApp.CosmoDB.API\\Services\\IQuestionRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T03:02:52.678Z",
+              "WhenOpened": "2024-06-19T16:04:44.385Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "ICandidateRepository.cs",
-              "DocumentMoniker": "C:\\WebProjects\\TaskProject\\ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API\\Services\\ICandidateRepository.cs",
-              "RelativeDocumentMoniker": "ExamManagerApp.CosmoDB.API\\Services\\ICandidateRepository.cs",
-              "ToolTip": "C:\\WebProjects\\TaskProject\\ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API\\Services\\ICandidateRepository.cs",
-              "RelativeToolTip": "ExamManagerApp.CosmoDB.API\\Services\\ICandidateRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAABAAAA",
+              "Title": "IQuestionTypeRepository.cs",
+              "DocumentMoniker": "C:\\WebProjects\\TaskProject\\ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API\\Services\\IQuestionTypeRepository.cs",
+              "RelativeDocumentMoniker": "ExamManagerApp.CosmoDB.API\\Services\\IQuestionTypeRepository.cs",
+              "ToolTip": "C:\\WebProjects\\TaskProject\\ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API\\Services\\IQuestionTypeRepository.cs",
+              "RelativeToolTip": "ExamManagerApp.CosmoDB.API\\Services\\IQuestionTypeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T03:02:50.977Z",
+              "WhenOpened": "2024-06-19T16:02:51.688Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "QuestionsController.cs",
-              "DocumentMoniker": "C:\\WebProjects\\TaskProject\\ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API\\Controllers\\QuestionsController.cs",
-              "RelativeDocumentMoniker": "ExamManagerApp.CosmoDB.API\\Controllers\\QuestionsController.cs",
-              "ToolTip": "C:\\WebProjects\\TaskProject\\ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API\\Controllers\\QuestionsController.cs",
-              "RelativeToolTip": "ExamManagerApp.CosmoDB.API\\Controllers\\QuestionsController.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAADEAAAAAAAAA",
+              "DocumentIndex": 4,
+              "Title": "ProgramsController.cs",
+              "DocumentMoniker": "C:\\WebProjects\\TaskProject\\ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API\\Controllers\\ProgramsController.cs",
+              "RelativeDocumentMoniker": "ExamManagerApp.CosmoDB.API\\Controllers\\ProgramsController.cs",
+              "ToolTip": "C:\\WebProjects\\TaskProject\\ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API\\Controllers\\ProgramsController.cs",
+              "RelativeToolTip": "ExamManagerApp.CosmoDB.API\\Controllers\\ProgramsController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAUwAcAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T14:59:56.536Z",
+              "WhenOpened": "2024-06-19T15:49:53.554Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\WebProjects\\TaskProject\\ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "ExamManagerApp.CosmoDB.API\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\WebProjects\\TaskProject\\ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "ExamManagerApp.CosmoDB.API\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAmwC4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T15:41:59.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\WebProjects\\TaskProject\\ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API\\Program.cs",
               "RelativeDocumentMoniker": "ExamManagerApp.CosmoDB.API\\Program.cs",
               "ToolTip": "C:\\WebProjects\\TaskProject\\ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API\\Program.cs",
               "RelativeToolTip": "ExamManagerApp.CosmoDB.API\\Program.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAIAwwCkAAAAAAAAA",
+              "ViewState": "AQIAACYAAAAAAAAAAAAIwDMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-19T01:36:11.618Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "QuestionsController.cs",
+              "DocumentMoniker": "C:\\WebProjects\\TaskProject\\ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API\\Controllers\\QuestionsController.cs",
+              "RelativeDocumentMoniker": "ExamManagerApp.CosmoDB.API\\Controllers\\QuestionsController.cs",
+              "ToolTip": "C:\\WebProjects\\TaskProject\\ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API\\Controllers\\QuestionsController.cs",
+              "RelativeToolTip": "ExamManagerApp.CosmoDB.API\\Controllers\\QuestionsController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAIA8wEMAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T14:59:56.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QuestionTypeController.cs",
+              "DocumentMoniker": "C:\\WebProjects\\TaskProject\\ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API\\Controllers\\QuestionTypeController.cs",
+              "RelativeDocumentMoniker": "ExamManagerApp.CosmoDB.API\\Controllers\\QuestionTypeController.cs",
+              "ToolTip": "C:\\WebProjects\\TaskProject\\ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API\\Controllers\\QuestionTypeController.cs",
+              "RelativeToolTip": "ExamManagerApp.CosmoDB.API\\Controllers\\QuestionTypeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T16:11:16.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "QuestionRepository.cs",
+              "DocumentMoniker": "C:\\WebProjects\\TaskProject\\ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API\\Services\\QuestionRepository.cs",
+              "RelativeDocumentMoniker": "ExamManagerApp.CosmoDB.API\\Services\\QuestionRepository.cs",
+              "ToolTip": "C:\\WebProjects\\TaskProject\\ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API\\Services\\QuestionRepository.cs",
+              "RelativeToolTip": "ExamManagerApp.CosmoDB.API\\Services\\QuestionRepository.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAD4v2MAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T12:02:20.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CandidatesController.cs",
+              "DocumentMoniker": "C:\\WebProjects\\TaskProject\\ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API\\Controllers\\CandidatesController.cs",
+              "RelativeDocumentMoniker": "ExamManagerApp.CosmoDB.API\\Controllers\\CandidatesController.cs",
+              "ToolTip": "C:\\WebProjects\\TaskProject\\ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API\\Controllers\\CandidatesController.cs",
+              "RelativeToolTip": "ExamManagerApp.CosmoDB.API\\Controllers\\CandidatesController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAowBEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T03:07:55.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\WebProjects\\TaskProject\\ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API\\Services\\UserRepository.cs",
+              "RelativeDocumentMoniker": "ExamManagerApp.CosmoDB.API\\Services\\UserRepository.cs",
+              "ToolTip": "C:\\WebProjects\\TaskProject\\ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API\\Services\\UserRepository.cs",
+              "RelativeToolTip": "ExamManagerApp.CosmoDB.API\\Services\\UserRepository.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAowBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T15:19:09.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "QuestionDocument.cs",
+              "DocumentMoniker": "C:\\WebProjects\\TaskProject\\ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API\\Models\\QuestionDocument.cs",
+              "RelativeDocumentMoniker": "ExamManagerApp.CosmoDB.API\\Models\\QuestionDocument.cs",
+              "ToolTip": "C:\\WebProjects\\TaskProject\\ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API\\Models\\QuestionDocument.cs",
+              "RelativeToolTip": "ExamManagerApp.CosmoDB.API\\Models\\QuestionDocument.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA/wBsAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T15:38:29.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\WebProjects\\TaskProject\\ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API\\Services\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "ExamManagerApp.CosmoDB.API\\Services\\IUserRepository.cs",
+              "ToolTip": "C:\\WebProjects\\TaskProject\\ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API\\Services\\IUserRepository.cs",
+              "RelativeToolTip": "ExamManagerApp.CosmoDB.API\\Services\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T15:17:29.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProgramRepository.cs",
+              "DocumentMoniker": "C:\\WebProjects\\TaskProject\\ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API\\Services\\ProgramRepository.cs",
+              "RelativeDocumentMoniker": "ExamManagerApp.CosmoDB.API\\Services\\ProgramRepository.cs",
+              "ToolTip": "C:\\WebProjects\\TaskProject\\ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API\\Services\\ProgramRepository.cs",
+              "RelativeToolTip": "ExamManagerApp.CosmoDB.API\\Services\\ProgramRepository.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA5wCoAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T15:46:05.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IProgramRepository.cs",
+              "DocumentMoniker": "C:\\WebProjects\\TaskProject\\ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API\\Services\\IProgramRepository.cs",
+              "RelativeDocumentMoniker": "ExamManagerApp.CosmoDB.API\\Services\\IProgramRepository.cs",
+              "ToolTip": "C:\\WebProjects\\TaskProject\\ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API\\Services\\IProgramRepository.cs",
+              "RelativeToolTip": "ExamManagerApp.CosmoDB.API\\Services\\IProgramRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T15:44:30.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserDocument.cs",
+              "DocumentMoniker": "C:\\WebProjects\\TaskProject\\ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API\\Models\\UserDocument.cs",
+              "RelativeDocumentMoniker": "ExamManagerApp.CosmoDB.API\\Models\\UserDocument.cs",
+              "ToolTip": "C:\\WebProjects\\TaskProject\\ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API\\Models\\UserDocument.cs",
+              "RelativeToolTip": "ExamManagerApp.CosmoDB.API\\Models\\UserDocument.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T15:21:26.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CandidateDocument.cs",
+              "DocumentMoniker": "C:\\WebProjects\\TaskProject\\ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API\\Models\\CandidateDocument.cs",
+              "RelativeDocumentMoniker": "ExamManagerApp.CosmoDB.API\\Models\\CandidateDocument.cs",
+              "ToolTip": "C:\\WebProjects\\TaskProject\\ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API\\Models\\CandidateDocument.cs",
+              "RelativeToolTip": "ExamManagerApp.CosmoDB.API\\Models\\CandidateDocument.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwCUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T03:38:10.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "QuestionMapper.cs",
+              "DocumentMoniker": "C:\\WebProjects\\TaskProject\\ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API\\Mappers\\QuestionMapper.cs",
+              "RelativeDocumentMoniker": "ExamManagerApp.CosmoDB.API\\Mappers\\QuestionMapper.cs",
+              "ToolTip": "C:\\WebProjects\\TaskProject\\ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API\\Mappers\\QuestionMapper.cs",
+              "RelativeToolTip": "ExamManagerApp.CosmoDB.API\\Mappers\\QuestionMapper.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAtwBcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T14:40:44.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "QuestionCreateDto.cs",
+              "DocumentMoniker": "C:\\WebProjects\\TaskProject\\ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API\\DTOs\\QuestionCreateDto.cs",
+              "RelativeDocumentMoniker": "ExamManagerApp.CosmoDB.API\\DTOs\\QuestionCreateDto.cs",
+              "ToolTip": "C:\\WebProjects\\TaskProject\\ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API\\DTOs\\QuestionCreateDto.cs",
+              "RelativeToolTip": "ExamManagerApp.CosmoDB.API\\DTOs\\QuestionCreateDto.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAcAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T14:39:15.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "CandidateCreateDto.cs",
               "DocumentMoniker": "C:\\WebProjects\\TaskProject\\ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API\\DTOs\\CandidateCreateDto.cs",
               "RelativeDocumentMoniker": "ExamManagerApp.CosmoDB.API\\DTOs\\CandidateCreateDto.cs",
               "ToolTip": "C:\\WebProjects\\TaskProject\\ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API\\DTOs\\CandidateCreateDto.cs",
               "RelativeToolTip": "ExamManagerApp.CosmoDB.API\\DTOs\\CandidateCreateDto.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAQAAAAjAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T02:56:35.911Z",
+              "WhenOpened": "2024-06-19T14:39:55.477Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 20,
               "Title": "CandidateRepository.cs",
               "DocumentMoniker": "C:\\WebProjects\\TaskProject\\ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API\\Services\\CandidateRepository.cs",
               "RelativeDocumentMoniker": "ExamManagerApp.CosmoDB.API\\Services\\CandidateRepository.cs",
@@ -157,33 +370,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 19,
               "Title": "CandidateMapper.cs",
               "DocumentMoniker": "C:\\WebProjects\\TaskProject\\ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API\\Mappers\\CandidateMapper.cs",
               "RelativeDocumentMoniker": "ExamManagerApp.CosmoDB.API\\Mappers\\CandidateMapper.cs",
               "ToolTip": "C:\\WebProjects\\TaskProject\\ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API\\Mappers\\CandidateMapper.cs",
               "RelativeToolTip": "ExamManagerApp.CosmoDB.API\\Mappers\\CandidateMapper.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAkwAcAAABTAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAA3wAcAAABTAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-19T03:25:52.714Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CandidatesController.cs",
-              "DocumentMoniker": "C:\\WebProjects\\TaskProject\\ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API\\Controllers\\CandidatesController.cs",
-              "RelativeDocumentMoniker": "ExamManagerApp.CosmoDB.API\\Controllers\\CandidatesController.cs",
-              "ToolTip": "C:\\WebProjects\\TaskProject\\ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API\\Controllers\\CandidatesController.cs",
-              "RelativeToolTip": "ExamManagerApp.CosmoDB.API\\Controllers\\CandidatesController.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAAABoAAAAxAAAA",
+              "DocumentIndex": 21,
+              "Title": "ICandidateRepository.cs",
+              "DocumentMoniker": "C:\\WebProjects\\TaskProject\\ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API\\Services\\ICandidateRepository.cs",
+              "RelativeDocumentMoniker": "ExamManagerApp.CosmoDB.API\\Services\\ICandidateRepository.cs",
+              "ToolTip": "C:\\WebProjects\\TaskProject\\ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API\\Services\\ICandidateRepository.cs",
+              "RelativeToolTip": "ExamManagerApp.CosmoDB.API\\Services\\ICandidateRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T03:07:55.277Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-19T03:02:50.977Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 22,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "C:\\WebProjects\\TaskProject\\ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "ExamManagerApp.CosmoDB.API\\WeatherForecast.cs",
@@ -191,38 +403,11 @@
               "RelativeToolTip": "ExamManagerApp.CosmoDB.API\\WeatherForecast.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T03:18:47.827Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-19T03:18:47.827Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "QuestionRepository.cs",
-              "DocumentMoniker": "C:\\WebProjects\\TaskProject\\ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API\\Services\\QuestionRepository.cs",
-              "RelativeDocumentMoniker": "ExamManagerApp.CosmoDB.API\\Services\\QuestionRepository.cs",
-              "ToolTip": "C:\\WebProjects\\TaskProject\\ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API\\Services\\QuestionRepository.cs",
-              "RelativeToolTip": "ExamManagerApp.CosmoDB.API\\Services\\QuestionRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T12:02:20.409Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "QuestionDocument.cs",
-              "DocumentMoniker": "C:\\WebProjects\\TaskProject\\ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API\\Models\\QuestionDocument.cs",
-              "RelativeDocumentMoniker": "ExamManagerApp.CosmoDB.API\\Models\\QuestionDocument.cs",
-              "ToolTip": "C:\\WebProjects\\TaskProject\\ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API\\Models\\QuestionDocument.cs",
-              "RelativeToolTip": "ExamManagerApp.CosmoDB.API\\Models\\QuestionDocument.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T02:52:40.242Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 23,
               "Title": "libman.json",
               "DocumentMoniker": "C:\\WebProjects\\TaskProject\\ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API\\libman.json",
               "RelativeDocumentMoniker": "ExamManagerApp.CosmoDB.API\\libman.json",
@@ -230,8 +415,7 @@
               "RelativeToolTip": "ExamManagerApp.CosmoDB.API\\libman.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-18T17:37:17.4Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-18T17:37:17.4Z"
             }
           ]
         }

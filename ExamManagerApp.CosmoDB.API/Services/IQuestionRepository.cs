@@ -6,12 +6,12 @@ namespace ExamManagerApp.CosmoDB.API.Services
     public interface IQuestionRepository
     {
         Task<QuestionDocument> GetAsync(string questionId);
-        Task<IEnumerable<QuestionDocument>> GetByTypeAsync(string questionType);
+        Task<IEnumerable<QuestionDocument>> GetByTypeAsync(string questionTypeId);
         Task<IEnumerable<QuestionDocument>> ListAsync();
 
         Task<QuestionDocument> CreateAsync(QuestionCreateDto question);
-        Task<QuestionDocument> UpdateAsync(QuestionUpdateDto question, string questionType);
-        Task DeleteAsync(string questionId, string group);
+        Task<QuestionDocument> UpdateAsync(QuestionUpdateDto question, string questionId);
+        Task DeleteAsync(string questionId);
 
     }
 }

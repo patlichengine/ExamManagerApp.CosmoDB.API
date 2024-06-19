@@ -1,0 +1,92 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\WebProjects\\TaskProject\\ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API.csproj": {}
+  },
+  "projects": {
+    "C:\\WebProjects\\TaskProject\\ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\WebProjects\\TaskProject\\ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API.csproj",
+        "projectName": "ExamManagerApp.CosmoDB.API",
+        "projectPath": "C:\\WebProjects\\TaskProject\\ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API.csproj",
+        "packagesPath": "C:\\Users\\IgweLU\\.nuget\\packages\\",
+        "outputPath": "C:\\WebProjects\\TaskProject\\ExamManagerApp.CosmoDB.API\\ExamManagerApp.CosmoDB.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\IgweLU\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\WebProjects\\OfflineCOMES\\packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Azure.Cosmos": {
+              "target": "Package",
+              "version": "[3.41.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

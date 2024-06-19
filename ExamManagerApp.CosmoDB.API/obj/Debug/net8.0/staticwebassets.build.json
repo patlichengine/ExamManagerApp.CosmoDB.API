@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "S3X31HqTTW90gJtC0BwoS5Nu/Cc8HAdVo8fFQ1bvtSA=",
+  "Source": "ExamManagerApp.CosmoDB.API",
+  "BasePath": "_content/ExamManagerApp.CosmoDB.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
